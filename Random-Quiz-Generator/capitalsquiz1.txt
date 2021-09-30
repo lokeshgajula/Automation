@@ -1,0 +1,128 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz  (Form1)
+
+1. What is the capital of Haryana?
+    A.Kohima
+    B.Naya Raipur
+    C.Dispur
+    D.Chandigarh
+
+2. What is the capital of Arunachal Pradesh?
+    A.Itanagar
+    B.Chandigarh
+    C.Shillong
+    D.Capital
+
+3. What is the capital of Kerala?
+    A.Thiruvananthapuram
+    B.Ranchi
+    C.Panaji
+    D.Lucknow
+
+4. What is the capital of Rajasthan?
+    A.Dehradun,
+    B.Jaipur
+    C.Kolkata
+    D.Ranchi
+
+5. What is the capital of Jharkhand?
+    A.Shillong
+    B.Jaipur
+    C.Capital
+    D.Ranchi
+
+6. What is the capital of Uttar Pradesh?
+    A.Shillong
+    B.Amaravati
+    C.Lucknow
+    D.Itanagar
+
+7. What is the capital of Himachal Pradesh?
+    A.Hyderabad
+    B.Gangtok
+    C.Shimla
+    D.Dehradun,
+
+8. What is the capital of Assam?
+    A.Shimla
+    B.Itanagar
+    C.Naya Raipur
+    D.Dispur
+
+9. What is the capital of Punjab?
+    A.Gangtok
+    B.Bangalore
+    C.Chandigarh
+    D.Agartala
+
+10. What is the capital of Telangana?
+    A.Jaipur
+    B.Kolkata
+    C.Hyderabad
+    D.Imphal
+
+11. What is the capital of Uttarakhand?
+    A.Capital
+    B.Naya Raipur
+    C.Dehradun,
+    D.Amaravati
+
+12. What is the capital of Tripura?
+    A.Bhubaneswar
+    B.Itanagar
+    C.Kolkata
+    D.Agartala
+
+13. What is the capital of Madhya Pradesh?
+    A.Bhopal
+    B.Gangtok
+    C.Chandigarh
+    D.Patna
+
+14. What is the capital of Maharashtra?
+    A.Gandhinagar
+    B.Bhopal
+    C.Mumbai
+    D.Aizawl
+
+15. What is the capital of West Bengal?
+    A.Ranchi
+    B.Dispur
+    C.Kolkata
+    D.Patna
+
+16. What is the capital of State?
+    A.Chennai
+    B.Aizawl
+    C.Capital
+    D.Kolkata
+
+17. What is the capital of Meghalaya?
+    A.Shillong
+    B.Panaji
+    C.Kohima
+    D.Chennai
+
+18. What is the capital of Nagaland?
+    A.Kohima
+    B.Lucknow
+    C.Agartala
+    D.Panaji
+
+19. What is the capital of Gujarat?
+    A.Itanagar
+    B.Dispur
+    C.Gandhinagar
+    D.Chandigarh
+
+20. What is the capital of Karnataka?
+    A.Amaravati
+    B.Dehradun,
+    C.Bangalore
+    D.Jaipur
+
