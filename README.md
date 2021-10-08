@@ -7,3 +7,5 @@ This repository contains all the automations implemented or practiced by me.
 4. Automating maps search
 5. Stopwatch - using time module
 6. Downloading comics using multithreading
+7. Count-Down-With-Alarm
+8. 
