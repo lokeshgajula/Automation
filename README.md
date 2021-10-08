@@ -6,3 +6,4 @@ This repository contains all the automations implemented or practiced by me.
 3. Random generation of multiple sets of quiz question papers
 4. Automating maps search
 5. Stopwatch - using time module
+6. Downloading comics using multithreading
